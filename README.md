@@ -1,16 +1,24 @@
-### Hi there 👋
+I'm a software engineer living and working in Auckland, New Zealand. My day job
+is delivering SaaS solutions using **.NET** and **Microsoft Azure** but I'm
+interested in pretty much everything computer science related.
 
-<!--
-**ScheuNZ/ScheuNZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently dabbling with **NextJS**, **Rust**, and **Swift** in my spare
+time. I'd love to deep-dive on **Go**, **Python**, and **Zig** but never seem to
+find time beyond learning the basic syntax.
 
-Here are some ideas to get you started:
+I'm occasionally in the mood for [programming
+puzzles](https://adventofcode.com/) and security-related
+[capture](https://247ctf.com/) [the](https://tryhackme.com/)
+[flag](https://www.vulnhub.com/) games.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+<summary>Projects</summary>
+
+The screenshots below are from a work-in-progress iOS front-end for the
+<https://lobste.rs/> forum.
+
+ |                                             |                                                  |
+ | :-----------------------------------------: | :----------------------------------------------: |
+ | ![Active Posts](images/lobste.rs.posts.png) | ![Post with Comments](images/lobste.rs.post.png) |
+
+</details>
